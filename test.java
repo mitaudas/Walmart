@@ -1,5 +1,5 @@
 This file containd Java script details..
 This is for Devops developers
-updating in development branch
+updating in master branch
 Some new files are added
 
